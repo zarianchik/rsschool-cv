@@ -1,1 +1,1 @@
-https://zarianchik.github.io/rsschool-cv/
+https://zarianchik.github.io/rsschool-cv/cv

@@ -1,2 +1,1 @@
-https://zarianchik.github.io/rsschool-cv/c
-https://zarianchik.github.io/rsschool-cv/v
+https://zarianchik.github.io/rsschool-cv/
